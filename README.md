@@ -1,2 +1,4 @@
 # furry-sniffle
-A practice GitHub code
+
+
+Jenny is a git goddess. Soon, me too. 
